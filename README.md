@@ -3,7 +3,7 @@ Frontend, de chocolate fest
 
 # APP desplegada
 
-<!-- [APP](http://platzi.com) -->
+[APP](https://frontend-chocolate-fest.vercel.app/)
 
 ## Como correr el proyecto en local?
 
