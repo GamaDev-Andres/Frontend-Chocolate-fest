@@ -1,0 +1,19 @@
+
+.resultado__titulo{
+  text-align: center;
+  margin-bottom: .5rem;
+}
+.resultado__text{
+  text-align: center;
+  color: var(--negro);
+}
+.resultado__cantidad{
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  border-radius: 400px;
+  border:3px solid var(--azul);
+  color: var(--negro);
+  width: min-content ;
+  margin: 8px auto;
+}

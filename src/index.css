@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --blanco:#FBFEF9;
+  --negro:#191923;
+  --azul:#0E79B2;
+  --tablet:768px;
+}
+body{
+  background:var(--blanco)
+}
+
+.app{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+}
