@@ -1,9 +1,6 @@
 # Frontend-Chocolate-fest
 Frontend, de chocolate fest
 
-# APP desplegada
-*NOTA* por temas del servidor en heroku , la app puede demorar un poco en responder.
-[APP](https://frontend-chocolate-fest.vercel.app/)
 
 ## Como correr el proyecto en local?
 
